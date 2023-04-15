@@ -8,7 +8,7 @@
     </Id>
 
     <SunProperties>
-      <SunIntensity>40</SunIntensity>
+      <SunIntensity>60</SunIntensity>
       <EnvironmentLight>
         <SunDiscColor>
             <X>0.7</X>
